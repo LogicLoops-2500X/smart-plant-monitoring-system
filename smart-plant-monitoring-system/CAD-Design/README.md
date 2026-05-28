@@ -56,18 +56,6 @@ This folder contains the complete CAD design and enclosure development for the S
 
 ---
 
-## 📸 CAD Preview
-
-### Full Assembly
-![Full Assembly](Images/full-assembly.png)
-
-### Exploded View
-![Exploded View](Images/exploded-view.png)
-
-### Electronics Placement
-![Electronics](Images/electronics-placement.png)
-
----
 
 ## 🚀 Future Improvements
 
