@@ -213,7 +213,13 @@ The ESP32 hosts a full dark-themed dashboard on port 80. No internet required �
 ```
 
 ---
+## 🎨 CAD Design
 
+The complete enclosure and product body for the Smart Plant Monitoring System was designed using Onshape.
+
+📁 View CAD Files Here → [CAD Design](./CAD-Design)
+
+---
 ## 🛠️ Hardware & Bill of Materials
 
 ```
