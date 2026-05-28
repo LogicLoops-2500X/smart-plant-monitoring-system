@@ -4,9 +4,7 @@ Circuit schematics for the Smart Plant Monitoring System were designed using [Ea
 
 ## Files
 
-> **Note:** Export your schematic from EasyEDA as `.json` or `.svg` and place it in this folder.
-
-## Recommended Export Formats
+## Files Added
 
 | Format | Use |
 |---|---|
